@@ -11,6 +11,7 @@ namespace CursoGitHub.InterfaceConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Alô Mundo");
+            Console.ReadKey(); 
         }
     }
 }
